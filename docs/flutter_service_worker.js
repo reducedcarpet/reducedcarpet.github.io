@@ -27,7 +27,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7e306b51bea1e1166cd46ab61e34e8a4
 "assets/assets/images/image_7.jpg": "e7962ffc1894666ef811714ece8146e5",
 "assets/assets/images/image_8.jpg": "611872ed0ab4be055368be936d060097",
 "assets/assets/images/image_9.jpg": "864f79bd2d7cef8fba783b9b889618e9",
-"assets/assets/images/mcp1.png": "51c3727e173fb075b1a3c046378132f4",
+"assets/assets/images/mcp1.png": "7932c755fe0a2ad0abf1e89174bf0cb7",
 "assets/assets/MichaelCadenPike_CV.pdf": "264a4cd013d66becafb59e4161d851de",
 "assets/assets/portfolio/hicarer_1.png": "e967f2773f442028d3d703c4589f50c4",
 "assets/assets/portfolio/hicarer_10.png": "dc51ef4e27f3312b6373d02aa11a9f83",
@@ -95,10 +95,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "7e306b51bea1e1166cd46ab61e34e8a4
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1894d8f58a7cea95feaa8c8a0d44db8c",
-"/": "1894d8f58a7cea95feaa8c8a0d44db8c",
+"index.html": "93e4bd958491b4ec10793edec3daa99c",
+"/": "93e4bd958491b4ec10793edec3daa99c",
 "main.dart.js": "0c0b797375a2cbac2297e7b0252207bb",
 "manifest.json": "a7152b9348d84f575c0e9b020e7dd74f",
+"spinkit.css": "695309ae2e02fd49586c79a7c091e6aa",
 "version.json": "cc8c7e7b95aff4c07f6b122548464484"};
 // The application shell files that are downloaded before a service worker can
 // start.
