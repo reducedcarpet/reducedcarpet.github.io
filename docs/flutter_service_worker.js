@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7e306b51bea1e1166cd46ab61e34e8a4",
-"assets/AssetManifest.bin.json": "e903ed81f71751a56180941f2da4dd11",
-"assets/AssetManifest.json": "080d3136915d705b1b65cd11882609ae",
+const RESOURCES = {"assets/AssetManifest.bin": "eb90fab737deacd1ad5702b1763f3e73",
+"assets/AssetManifest.bin.json": "28df25d4a1daee5568622e4191a69af9",
+"assets/AssetManifest.json": "25da7499dd2895cffa14eab4d4d4de31",
 "assets/assets/fonts/Lato-Black.ttf": "d83ab24f5cf2be8b7a9873dd64f6060a",
 "assets/assets/fonts/Lato-Bold.ttf": "24b516c266d7341c954cb2918f1c8f38",
 "assets/assets/fonts/Lato-Regular.ttf": "122dd68d69fe9587e062d20d9ff5de2a",
@@ -15,7 +15,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7e306b51bea1e1166cd46ab61e34e8a4
 "assets/assets/images/image_10.jpg": "dc4351c581e9d60d66141aea3684ad8e",
 "assets/assets/images/image_11.jpg": "59c8c2d81fcbba8ce30b299321cc79c7",
 "assets/assets/images/image_12.jpg": "7828fc92ed5fab991000bc816236b504",
-"assets/assets/images/image_13.JPG": "0d4e0bedc086c11dc52d23533abd418b",
+"assets/assets/images/image_13.jpg": "0d4e0bedc086c11dc52d23533abd418b",
 "assets/assets/images/image_14.jpg": "761d39a1c0293c6c07e99c47125a80b2",
 "assets/assets/images/image_15.jpg": "8373b870591d4d6ea1ed14451f73db40",
 "assets/assets/images/image_16.jpg": "a19b3dc56b0dd72f3831043640d753ec",
@@ -28,7 +28,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7e306b51bea1e1166cd46ab61e34e8a4
 "assets/assets/images/image_8.jpg": "611872ed0ab4be055368be936d060097",
 "assets/assets/images/image_9.jpg": "864f79bd2d7cef8fba783b9b889618e9",
 "assets/assets/images/mcp1.png": "7932c755fe0a2ad0abf1e89174bf0cb7",
-"assets/assets/MichaelCadenPike_CV.pdf": "264a4cd013d66becafb59e4161d851de",
+"assets/assets/MichaelCadenPike_CV.pdf": "7dc7ca72be2dc26cb5637407977fd34c",
 "assets/assets/portfolio/hicarer_1.png": "e967f2773f442028d3d703c4589f50c4",
 "assets/assets/portfolio/hicarer_10.png": "dc51ef4e27f3312b6373d02aa11a9f83",
 "assets/assets/portfolio/hicarer_2.png": "75ffdaf8a8258e3249580cd3225b7019",
@@ -78,8 +78,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "7e306b51bea1e1166cd46ab61e34e8a4
 "assets/assets/portfolio/wall_4.png": "22ef85ae9aff0835d8f62dc4e96a51fc",
 "assets/assets/portfolio/wall_5.png": "6b1a79629f25dc2399709939122e6dc7",
 "assets/FontManifest.json": "1e22ef612745ae490f2b91d9ee61dcb1",
-"assets/fonts/MaterialIcons-Regular.otf": "0ef1f71c2407e1cfb8e64f3c3ee21338",
-"assets/NOTICES": "0e2d47163376d1a8af691b9139de5c74",
+"assets/fonts/MaterialIcons-Regular.otf": "8f940ebf471cd323ad484b8f39778e53",
+"assets/NOTICES": "cffccf22791a88dfa6b8c0105c17830b",
 "assets/packages/social_media_flutter/fonts/icons.ttf": "7dae615e8df7bf5bf381bf713850ac33",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
@@ -95,11 +95,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "7e306b51bea1e1166cd46ab61e34e8a4
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "93e4bd958491b4ec10793edec3daa99c",
-"/": "93e4bd958491b4ec10793edec3daa99c",
-"main.dart.js": "0c0b797375a2cbac2297e7b0252207bb",
+"index.html": "ec5b9df4aca6e85574e343f011a5b0bb",
+"/": "ec5b9df4aca6e85574e343f011a5b0bb",
+"main.dart.js": "f59945430fd3ba39089fac9c0ea99c58",
 "manifest.json": "a7152b9348d84f575c0e9b020e7dd74f",
-"spinkit.css": "695309ae2e02fd49586c79a7c091e6aa",
 "version.json": "cc8c7e7b95aff4c07f6b122548464484"};
 // The application shell files that are downloaded before a service worker can
 // start.

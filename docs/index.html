@@ -34,70 +34,15 @@
   <title>Michael Caden Pike</title>
   <link rel="manifest" href="manifest.json">
 
-  <style>
-      .loading {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          margin: 0;
-          position: absolute;
-          top: 50%;
-          left: 50%;
-          -ms-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-      }
-
-      .loader {
-          border: 16px solid #f3f3f3;
-          border-radius: 50%;
-          border-top: 16px solid blue;
-          border-right: 16px solid orange;
-          border-bottom: 16px solid red;
-          border-left: 16px solid pink;
-          width: 60px;
-          height: 60px;
-          -webkit-animation: spin 2s linear infinite;
-          animation: spin 2s linear infinite;
-      }
-
-      @-webkit-keyframes spin {
-          0% {
-              -webkit-transform: rotate(0deg);
-          }
-
-          100% {
-              -webkit-transform: rotate(360deg);
-          }
-      }
-
-      @keyframes spin {
-          0% {
-              transform: rotate(0deg);
-          }
-
-          100% {
-              transform: rotate(360deg);
-          }
-      }
-  </style>
-
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "4282756383";
+    const serviceWorkerVersion = "589736152";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
-<body>
-<div class="loading">
-  <div class="sk-folding-cube">
-    <div class="sk-cube1 sk-cube"></div>
-    <div class="sk-cube2 sk-cube"></div>
-    <div class="sk-cube4 sk-cube"></div>
-    <div class="sk-cube3 sk-cube"></div>
-  </div>
-</div>
 
+<body>
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
@@ -114,4 +59,5 @@
     });
   </script>
 </body>
+
 </html>
